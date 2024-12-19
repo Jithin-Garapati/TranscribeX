@@ -27,7 +27,7 @@ While online transcription services exist, TranscribeX offers unique advantages:
 ## 📥 Installation
 
 1. Download the latest installer from the [releases page](https://github.com/Jithin-Garapati/TranscribeX/releases)
-2. Run `[TranscribeX_Setup.exe](https://github.com/Jithin-Garapati/TranscribeX/releases/download/v1.0.0/TranscribeX_Setup.exe)`
+2. Run [TranscribeX_Setup.exe](https://github.com/Jithin-Garapati/TranscribeX/releases/download/v1.0.0/TranscribeX_Setup.exe)
 3. Follow the installation wizard
 4. Launch TranscribeX from your desktop or start menu
 
