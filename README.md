@@ -11,7 +11,7 @@
 - **Multiple Format Support**: Handles MP4, AVI, MOV, MKV, MP3, WAV, and M4A files
 - **Offline Processing**: Process files locally on your machine
 - **User-Friendly Interface**: Clean, modern dark-themed UI
-- **Fast & Accurate**: Powered by Groq's Whisper Large V3 Turbo model
+- **Fast & Accurate**: Powered by Groq's Whisper Large V3 Turbo model (216x real-time speed)
 - **Save & Export**: Export transcriptions in text format
 
 ## 🚀 Why TranscribeX?
@@ -21,8 +21,9 @@ While online transcription services exist, TranscribeX offers unique advantages:
 1. **Privacy First**: Your files never leave your computer except for the API call
 2. **No File Size Limits**: Process large video files (5GB+) directly
 3. **No Conversion Needed**: Skip the tedious process of extracting audio from videos
-4. **Cost-Effective**: Only pay for the API usage, no subscription required
+4. **Completely Free**: Uses Groq's free API with generous limits (14,400 requests/day)
 5. **Desktop Integration**: Native Windows application experience
+
 
 ## 📥 Installation
 
@@ -33,7 +34,7 @@ While online transcription services exist, TranscribeX offers unique advantages:
 
 ## 🔑 Getting Started
 
-1. Get your Groq API key:
+1. Get your free Groq API key:
    - Visit [Groq Console](https://console.groq.com/playground)
    - Sign up/Login
    - Navigate to API Keys
@@ -57,7 +58,7 @@ While online transcription services exist, TranscribeX offers unique advantages:
 - Built with Python and CustomTkinter
 - Uses Groq's Whisper Large V3 Turbo model for transcription
 - Handles video processing using MoviePy
-- Clean architecture with modular design
+
 
 ## 📝 License
 
