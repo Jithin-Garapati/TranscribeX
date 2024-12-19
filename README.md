@@ -59,10 +59,6 @@ While online transcription services exist, TranscribeX offers unique advantages:
 - Handles video processing using MoviePy
 
 
-## 📝 License
-
-MIT License - feel free to use and modify!
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests.
