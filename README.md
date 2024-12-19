@@ -18,10 +18,9 @@
 
 While online transcription services exist, TranscribeX offers unique advantages:
 
-1. **Privacy First**: Your files never leave your computer except for the API call
-2. **No File Size Limits**: Process large video files (5GB+) directly
+1. **Upload Video Files Directly**: Process large video files (5GB+) directly
 3. **No Conversion Needed**: Skip the tedious process of extracting audio from videos
-4. **Completely Free**: Uses Groq's free API with generous limits (14,400 requests/day)
+4. **Completely Free**: Uses Groq's free API with generous limits 
 5. **Desktop Integration**: Native Windows application experience
 
 
